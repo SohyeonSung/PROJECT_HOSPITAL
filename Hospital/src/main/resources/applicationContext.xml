@@ -38,11 +38,11 @@
 	<!-- ✅ DataSource 설정 -->
 	<bean id="dataSource" class="org.apache.commons.dbcp2.BasicDataSource">
     <property name="driverClassName" value="oracle.jdbc.OracleDriver" />
-    <!--<property name="url" value="jdbc:oracle:thin:@//localhost:1521/XE" />-->
-    <property name="url" value="jdbc:oracle:thin:@//localhost:1521/XEPDB1" />
+    <property name="url" value="jdbc:oracle:thin:@//localhost:1521/XE" />
+    <!-- <property name="url" value="jdbc:oracle:thin:@//localhost:1521/XEPDB1" /> -->
 
-    <property name="username" value="PROJECT3" />
-    <property name="password" value="1012" />
+    <property name="username" value="PROJECT" />
+    <property name="password" value="123" />
 </bean>
 
 	<!-- ✅ 메일 발송기 -->
