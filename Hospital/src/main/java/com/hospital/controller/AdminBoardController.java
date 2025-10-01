@@ -39,7 +39,7 @@ import com.hospital.vo.NoticeVO;
 import com.hospital.vo.PraiseVO;
 import com.hospital.vo.UserActivityLogVO;
 import com.hospital.vo.UserVO;
-//찬우 테스트 gg
+//찬우 테스트 gg12
 @Controller
 @RequestMapping("/admin_board")
 public class AdminBoardController {
