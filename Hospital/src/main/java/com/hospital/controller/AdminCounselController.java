@@ -14,7 +14,7 @@ import org.springframework.web.bind.annotation.RequestParam;
 
 import com.hospital.service.CounselFormService;
 import com.hospital.vo.CounselFormVO;
-
+// 세아 깃연동
 @Controller
 public class AdminCounselController {
 
