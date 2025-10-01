@@ -1,6 +1,6 @@
 // com.hospital.controller.VolunteerController
 package com.hospital.controller;
-
+//테스트12
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
